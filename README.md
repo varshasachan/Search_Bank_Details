@@ -1,5 +1,6 @@
 # Search_Bank_Details
 Fetches the details of the Banks
+
 Step 1)
 npm install for installing all dependencies.
 
